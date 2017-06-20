@@ -1,8 +1,7 @@
 # Tsukumogami
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/tsukumogami`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Tsukumogami is a basic Service Object implementation for Rails. It tries to keep the overhead to a minimum.
+The purpose of this gem is to reduce the complexity and amount of logic in Controllers in places where a simple PORO would not be enough.
 
 ## Installation
 
@@ -32,7 +31,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tsukumogami.
+Contstructive critique, code reviews, bug reports and pull requests are welcome on GitHub at https://github.com/budmc29/tsukumogami.
 
 ## License
 
