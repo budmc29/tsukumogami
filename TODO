@@ -1,3 +1,7 @@
 Update readme
 Connect to a rails app
-generate services
+Use everything as a module, serviceable
+Success, error accesor
+Success? method
+Generate attr_accessors
+Generate services from the CLI (example_service.rb)
